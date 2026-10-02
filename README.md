@@ -8,7 +8,12 @@ It follows the basic loop every robot uses: **sense → think → act**.
 - **Think:** the Arduino compares that to a threshold (30 %).
 - **Act:** if the soil is dry, the red LED lights and a small pump waters the plant. If it's wet, the green LED lights.
 
-<!-- PHOTOS -->
+<p align="center">
+  <img src="photos/setup-overhead.jpg" width="32%" alt="Full setup from above">
+  <img src="photos/setup-desk.jpg" width="32%" alt="Breadboard, pump in water, multimeter">
+  <img src="photos/sensor-in-plant.jpg" width="32%" alt="Soil sensor in the plant pot">
+</p>
+<p align="center"><em>The full build: Arduino + breadboard, pump in a pan of water, and the soil sensor in the pot.</em></p>
 
 ## Parts
 
